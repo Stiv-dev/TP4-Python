@@ -1,7 +1,7 @@
 import discord
 from discord import Client
 
-#pr config le token /
+#pr config le token
 from dotenv import load_dotenv
 load_dotenv(dotenv_path="config")
 import os
