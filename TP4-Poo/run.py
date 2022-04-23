@@ -1,9 +1,11 @@
 import discord
 from clients.custom_bot_client import CustomClient
 from cogs.greetings import Greetings
+from cogs.command_err_handler import CommandErrHandler
+from cogs.loggings import logins
 
 def main():
-    token = "OTU5MzQ4MTE2OTA4Mjc3ODIw.Ykakjg.bdojbiTrPRxO22Vvazbkp1xqpi4"
+    token = "TOKEN"
 
 
     intents = discord.Intents.default()
@@ -15,6 +17,8 @@ def main():
     )
 
     bot.add_cog(Greetings(bot))
+    bot.add_cog(CommandErrHandler(bot))
+    bot.add_cog(logins(bot))
 
     bot.run(token)
 

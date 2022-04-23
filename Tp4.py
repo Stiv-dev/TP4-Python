@@ -1,7 +1,7 @@
 import discord
 from discord import Client
 
-#pr config le token.
+#pr config le token
 from dotenv import load_dotenv
 load_dotenv(dotenv_path="config")
 import os
@@ -11,7 +11,7 @@ default_intents.members = True
 client = discord.Client(intents=default_intents)
 
 
-"client = discord.Client()"
+client = discord.Client()
 
 @client.event
 async def on_ready():
@@ -29,7 +29,7 @@ async def on_member_remove(member):
 
 @client.event 
 async def on_message(message):
-    if message.content.startswith("!je_suis_venere"):
+    if message.content.startswith("!yolo"):
         number = int(message.content.split()[1])
         messages = await message.channel.history(limit=number +1).flatten()
 
@@ -42,14 +42,14 @@ async def on_message(message):
 async def on_message(message):
     print(message.content)"""
 
-
+"""
 @client.event
 async def on_message(message):
     if message.content.lower() == "ping":
         await message.channel.send("pong")
         #await message.channel.send("pong", delete_after=5)
-
-client.run(os.getenv("TOKEN"))
+"""
+client.run(os.getenv("OTU5MzQ4MTE2OTA4Mjc3ODIw.Ykakjg.GUp3hut-CTwP5-iP6XMU_DDvWY0"))
 
 
 

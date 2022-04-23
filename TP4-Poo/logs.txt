@@ -1,0 +1,52 @@
+TP4>Stiv#0157>$help
+TP4>syylvain#8649>Penses à supprimer les gros mots
+TP4>Stiv#0157>$help
+TP4>Stiv#0157>mdr bv
+TP4>Stiv#0157>$yolo
+TP4>Botest#2528>Yolo is the word of Stiv
+TP4>syylvain#8649>$yolo
+TP4>Botest#2528>Yolo is the word of syylvain
+TP4>syylvain#8649>%delete 1
+TP4>syylvain#8649>$delete 2
+TP4>Botest#2528>I do not know that command?!
+TP4>syylvain#8649>$del 2
+TP4>Botest#2528>I do not know that command?!
+TP4>syylvain#8649>$help
+TP4>Stiv#0157>vous avez rien vu
+TP4>syylvain#8649>Tu as retiré le delete ?
+TP4>Stiv#0157>nn c juste cette commande mtn
+TP4>Stiv#0157>a
+TP4>Stiv#0157>a
+TP4>Stiv#0157>a
+TP4>Stiv#0157>$ntm 2
+TP4>Stiv#0157>chut ta rien vu xd
+TP4>syylvain#8649>$ntm 5
+TP4>syylvain#8649>$ntm 6
+TP4>syylvain#8649>$ntm 3
+TP4>Stiv#0157>$yolo
+TP4>Botest#2528>Yolo is the word of Stiv
+TP4>Stiv#0157>ca avance pas de prob sur le terminal mais tjrs pas lhistorique sur le txt
+TP4>Stiv#0157>$yolo
+TP4>Botest#2528>Yolo is the word of Stiv
+TP4>syylvain#8649>$yolo
+TP4>Botest#2528>Yolo is the word of syylvain
+TP4>Stiv#0157>$yolo
+TP4>Botest#2528>Yolo is the word of Stiv
+TP4>Stiv#0157>yolo
+TP4>Stiv#0157>$help
+TP4>Stiv#0157>$hey
+TP4>Botest#2528>Hey Stiv
+TP4>Stiv#0157>$help
+TP4>Stiv#0157>a
+TP4>Stiv#0157>a
+TP4>Stiv#0157>a
+TP4>Stiv#0157>$help
+TP4>Stiv#0157>$help
+TP4>Stiv#0157>$Puis_je_avoir_20
+TP4>Botest#2528>Oui_Steeve_tu_peux_avoir_20 Stiv
+TP4>Stiv#0157>a
+TP4>Stiv#0157>a
+TP4>Stiv#0157>a
+TP4>Stiv#0157>$del 2
+TP4>Botest#2528>I do not know that command?!
+TP4>Stiv#0157>$delete 3

@@ -1,0 +1,22 @@
+Voici les instructions pour faire marcher mon bot :
+
+1er étape :
+    remplacer le TOKEN par votre token
+    lancer votre environnement virtuel
+    rentrer dans le repertoire TP4-POO
+    taper dans l'invite de commande : python run.py
+    le bot affichera ce message : Botest#2528 est présenté!
+
+    votre bot est donc en marche 
+
+2ème étape :
+    les différentes commandes :
+    les commandes de mon bot commence tous par $
+    taper $help,il vous affichera toutes les commandes disponibles
+
+3ème étape :
+    loggings.py et logs.txt
+    la class logins permet de récupérer les messages de touts les utilisateur d'un meme serveur
+    et les différentes commandes seront renvoyé dans le fichier logs.txt
+
+
