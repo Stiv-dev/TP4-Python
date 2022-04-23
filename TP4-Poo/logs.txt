@@ -66,3 +66,12 @@ TP4>Stiv#0157>$yolo
 TP4>Botest#2528>Yolo is the word of Stiv
 TP4>Stiv#0157>a
 TP4>Stiv#0157>$delete 1
+TP4>Stiv#0157>$Puis_je_avoir_20
+TP4>Botest#2528>Oui_Steeve_tu_peux_avoir_20 Stiv
+TP4>Stiv#0157>$hey
+TP4>Botest#2528>Hey Stiv
+TP4>Stiv#0157>$yolo
+TP4>Botest#2528>Yolo is the word of Stiv
+TP4>Stiv#0157>a
+TP4>Stiv#0157>$delete 1
+TP4>Stiv#0157>FIN DU TP
