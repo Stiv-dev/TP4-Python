@@ -45,4 +45,5 @@ class Greetings(discord.ext.commands.Cog, name='Greetings module'):
             await channel1.send(f'A fils de Molière {member.mention} has disparu!')
     """
 
+# la classe composé de toutes les commandes
 

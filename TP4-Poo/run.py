@@ -5,7 +5,7 @@ from cogs.command_err_handler import CommandErrHandler
 from cogs.loggings import logins
 
 def main():
-    token = "TOKEN"
+    token = ""
 
 
     intents = discord.Intents.default()
